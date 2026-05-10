@@ -10,7 +10,7 @@
   "author": "Rodrigo Cordeiro",
   "license": "ISC",
   "dependencies": {
-    "amqplib": "^0.10.4"
+    "amqplib": "^1.0.0"
   },
   "devDependencies": {
     "@types/amqplib": "^0.10.5",
