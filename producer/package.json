@@ -10,10 +10,10 @@
   "author": "Rodrigo Cordeiro",
   "license": "ISC",
   "dependencies": {
-    "amqplib": "^0.10.4"
+    "amqplib": "^2.0.0"
   },
   "devDependencies": {
-    "@types/amqplib": "^0.10.5",
+    "@types/amqplib": "^2.0.0",
     "@types/node": "^20.12.12",
     "typescript": "^5.4.5"
   }
